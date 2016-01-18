@@ -1,0 +1,24 @@
+{
+  "name": "meumobi.services.Utils",
+  "authors": [
+    "victor.dias <victor.dias@ipanemax.com>"
+  ],
+  "description": "Native mobile services and features for native mobile web apps built with Cordova/PhoneGap. Includes fallback if run on Web Brower.",
+  "main": "Utils_meumobi.Services.js",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "meumobi",
+    "utils"
+  ],
+  "license": "MIT",
+  "homepage": "http://meumobi.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
